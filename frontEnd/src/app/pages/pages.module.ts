@@ -17,6 +17,7 @@ import { TableComponent } from './table/table.component';
   ],
   exports: [
     LoginComponent,
+    TableComponent
   ]
 })
 export class PagesModule { }
