@@ -1,2 +1,2 @@
 # hackatech
-Hackatech2022
+ Repositorio para hackatech.
